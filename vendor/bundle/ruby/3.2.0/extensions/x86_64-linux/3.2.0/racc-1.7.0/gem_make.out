@@ -1,0 +1,20 @@
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.0/ext/racc/cparse
+/usr/bin/ruby3.2 -I/usr/share/ruby3.2-rubygems extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230613-39585-e44fi4 sitelibdir\=./.gem.20230613-39585-e44fi4 clean
+
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230613-39585-e44fi4 sitelibdir\=./.gem.20230613-39585-e44fi4
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230613-39585-e44fi4 sitelibdir\=./.gem.20230613-39585-e44fi4 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230613-39585-e44fi4/racc
+
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/racc-1.7.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230613-39585-e44fi4 sitelibdir\=./.gem.20230613-39585-e44fi4 clean

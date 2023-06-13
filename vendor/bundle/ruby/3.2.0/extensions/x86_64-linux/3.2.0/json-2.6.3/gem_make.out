@@ -1,0 +1,16 @@
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/json-2.6.3/ext/json
+/usr/bin/ruby3.2 -I/usr/share/ruby3.2-rubygems extconf.rb
+creating Makefile
+
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230613-39585-utca1l sitelibdir\=./.gem.20230613-39585-utca1l clean
+
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230613-39585-utca1l sitelibdir\=./.gem.20230613-39585-utca1l
+make: Nothing to be done for 'all'.
+
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230613-39585-utca1l sitelibdir\=./.gem.20230613-39585-utca1l install
+
+current directory: /home/ec2-user/cd_practice/vendor/bundle/ruby/3.2.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230613-39585-utca1l sitelibdir\=./.gem.20230613-39585-utca1l clean
